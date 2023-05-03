@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Yummy Time</string>
+
+    <!-- Alert -->
+    <string name="connection_error">No internet connection!</string>
+
+    <!-- Components -->
+    <string name="search_recipe">Search recipe</string>
+    <string name="food_category">Food Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">. . .</string>
+    <string name="Ingredients">INGREDIENTS</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">ABOUT ME</string>
+    <string name="name">Name:</string>
+    <string name="instagram">Instagram</string>
+    <string name="copyright">Made by Alfian</string>
+
+    <!-- Button -->
+    <string name="youtube">Youtube</string>
+    <string name="source">Resource</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="MaterialComponents" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/highlandgothicflf</item>
+    </style>
+
+    <style name="AppBarLayoutTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorControlNormal">#0072ff</item>
+        <item name="titleTextColor">#0072ff</item>
+    </style>
+</resources>
